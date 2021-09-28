@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Author: Viviane
+#Author: Viviane
 if [$? -eq 0
 then
 echo "Success"
